@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+Disallow: /README.md
+Disallow: /.git/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+Sitemap: https://ianncovskaia-code.github.io/sweetraspberry/sitemap.xml
